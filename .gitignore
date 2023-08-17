@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+*.hex
+*.bin
+*.elf
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore temporary build directories
+build/
+tmp/
+
+# Ignore other metadata
+.DS_Store
